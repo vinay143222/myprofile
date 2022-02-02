@@ -1,0 +1,56 @@
+.home-image {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.home-para {
+    color: white
+}
+
+body {
+    background-color: #000000;
+    color: white;
+    overflow-x: hidden;
+}
+
+.navbar {
+    box-shadow: 4px 2px 2px 2px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.home-para {
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1 rem;
+    line-height: auto;
+    font-size: 18px;
+}
+
+.para-copy {
+    position: absolute;
+    top: 100%;
+    overflow-x: hidden;
+    right: 10px
+}
+
+.rest-para {
+    font-size: 25px;
+}
+
+.image-template {
+    height: 200px;
+}
+
+.buttonload {
+    background-color: #04AA6D;
+    /* Green background */
+    border: none;
+    /* Remove borders */
+    color: white;
+    /* White text */
+    padding: 12px 16px;
+    /* Some padding */
+    font-size: 16px/* Set a font size */
+}
